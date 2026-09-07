@@ -14,10 +14,10 @@
           "category": "ESP32",
           "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/esp32-core-3.3.11.zip",
           "archiveFileName": "esp32-core-3.3.11.zip",
-          "checksum": "SHA-256:a0e10deebe72d0b9fe4d922aa2bc2efbc3beddc5ea0fe571c6c925dbe0770da0",
-          "size": "46744509",
+          "checksum": "SHA-256:f3b0406d49add5b35f4c51ecfea2b3158df7f903a10207dee0e4c50e195e4eec",
+          "size": "46748129",
           "help": { "online": "" },
-          "boards": [ { "name": "trioe_esp32_s3" } ],
+          "boards": [ { "name": "TRIOE Dev Module" } ],
           "toolsDependencies": [
             { "packager": "esp32", "name": "esp-x32", "version": "2601" },
             { "packager": "esp32", "name": "xtensa-esp-elf-gdb", "version": "17.1_20260402" },

@@ -6,7 +6,7 @@ Hosted package index:
 
 Add this repository's `package_esp32_s3_index.json` URL to Arduino IDE's
 Additional Boards Manager URLs, then install **Trioe Boards** and select
-**trioe_esp32_s3**.
+**TRIOE Dev Module**.
 
 The index exposes only the S3 board entry. Espressif publishes one shared
 `esp32-core` archive, so the downloaded archive is not physically reduced to
