@@ -1,4 +1,6 @@
 # Trioe custom ESP32-S3 board
+menu.PSRAM=PSRAM
+
 trioe_esp32_s3.name=TRIOE Dev Module
 trioe_esp32_s3.upload.tool=esptool_py
 trioe_esp32_s3.upload.tool.default=esptool_py
