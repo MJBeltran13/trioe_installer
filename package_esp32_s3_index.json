@@ -5,7 +5,7 @@
       "maintainer": "Trioe",
       "websiteURL": "https://github.com/MJBeltran13/trioe_installer",
       "email": "trioe@users.noreply.github.com",
-      "help": { "online": "https://esp32.com" },
+      "help": { "online": "https://github.com/MJBeltran13/trioe_installer" },
       "platforms": [
         {
           "name": "trioe_esp32_s3",
@@ -14,19 +14,10 @@
           "category": "ESP32",
           "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/trioe_esp32_s3-3.3.11.zip",
           "archiveFileName": "trioe_esp32_s3-3.3.11.zip",
-          "checksum": "SHA-256:0c230add8300afb03902d1f39975798b60eb4f2df7dd9d0f5c57736b4f78ba3c",
-          "size": "40348633",
-          "help": { "online": "" },
-          "boards": [ { "name": "TRIOE Dev Module" } ],
-          "toolsDependencies": [
-            { "packager": "esp32", "name": "esp-x32", "version": "2601" },
-            { "packager": "esp32", "name": "xtensa-esp-elf-gdb", "version": "17.1_20260402" },
-            { "packager": "esp32", "name": "openocd-esp32", "version": "v0.12.0-esp32-20260424" },
-            { "packager": "esp32", "name": "esptool_py", "version": "5.3.1" },
-            { "packager": "esp32", "name": "mkspiffs", "version": "0.2.3" },
-            { "packager": "esp32", "name": "mklittlefs", "version": "4.0.2-db0513a" },
-            { "packager": "esp32", "name": "esp32s3-libs", "version": "3.3.11" }
-          ]
+          "checksum": "SHA-256:018ac26c0d83910474b2481b4f4f75da9e64cdb4a93e448154fcd2c6cbd59aff",
+          "size": "40181937",
+          "help": { "online": "https://github.com/MJBeltran13/trioe_installer" },
+          "boards": [ { "name": "TRIOE Dev Module" } ]
         }
       ]
     }
