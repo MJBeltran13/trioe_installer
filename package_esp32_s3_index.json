@@ -10,14 +10,19 @@
         {
           "name": "trioe_esp32_s3",
           "architecture": "esp32",
-          "version": "3.3.12",
+          "version": "3.3.13",
           "category": "ESP32",
-          "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/trioe_esp32_s3-3.3.12.zip",
-          "archiveFileName": "trioe_esp32_s3-3.3.12.zip",
+          "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/trioe_esp32_s3-3.3.13.zip",
+          "archiveFileName": "trioe_esp32_s3-3.3.13.zip",
           "checksum": "SHA-256:018ac26c0d83910474b2481b4f4f75da9e64cdb4a93e448154fcd2c6cbd59aff",
           "size": "40181937",
           "help": { "online": "https://github.com/MJBeltran13/trioe_installer" },
-          "boards": [ { "name": "TRIOE Dev Module" } ]
+          "boards": [ { "name": "TRIOE Dev Module" } ],
+          "toolsDependencies": [
+            { "packager": "esp32", "name": "esp-x32", "version": "2601" },
+            { "packager": "esp32", "name": "esptool_py", "version": "5.3.1" },
+            { "packager": "esp32", "name": "esp32s3-libs", "version": "3.3.11" }
+          ]
         }
       ]
     }
