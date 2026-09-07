@@ -10,12 +10,12 @@
         {
           "name": "trioe_esp32_s3",
           "architecture": "esp32",
-          "version": "3.3.15",
+          "version": "3.3.16",
           "category": "ESP32",
-          "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/trioe_esp32_s3-3.3.15.zip",
-          "archiveFileName": "trioe_esp32_s3-3.3.15.zip",
-          "checksum": "SHA-256:4b517b2f1f6769d8dc97ab16d7f53661d7f8db28636c1bfdc1aaaba0796ffd06",
-          "size": "40181946",
+          "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/trioe_esp32_s3-3.3.16.zip",
+          "archiveFileName": "trioe_esp32_s3-3.3.16.zip",
+          "checksum": "SHA-256:e80e12763051a92ef8118d623d2ecd3b6d1349c2922c1d400f24f44337f725df",
+          "size": "40182011",
           "help": { "online": "https://github.com/MJBeltran13/trioe_installer" },
           "boards": [ { "name": "TRIOE Dev Module" } ],
           "toolsDependencies": [
