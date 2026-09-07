@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "Trioe Boards",
+      "maintainer": "Espressif Systems",
+      "websiteURL": "https://github.com/MJBeltran13/trioe_installer",
+      "email": "hristo@espressif.com",
+      "help": { "online": "https://esp32.com" },
+      "platforms": [
+        {
+          "name": "trioe_esp32_s3",
+          "architecture": "esp32",
+          "version": "3.3.11",
+          "category": "ESP32",
+          "url": "https://raw.githubusercontent.com/MJBeltran13/trioe_installer/main/esp32-core-3.3.11.zip",
+          "archiveFileName": "esp32-core-3.3.11.zip",
+          "checksum": "SHA-256:a0e10deebe72d0b9fe4d922aa2bc2efbc3beddc5ea0fe571c6c925dbe0770da0",
+          "size": "46744509",
+          "help": { "online": "" },
+          "boards": [ { "name": "trioe_esp32_s3" } ],
+          "toolsDependencies": [
+            { "packager": "esp32", "name": "esp-x32", "version": "2601" },
+            { "packager": "esp32", "name": "xtensa-esp-elf-gdb", "version": "17.1_20260402" },
+            { "packager": "esp32", "name": "openocd-esp32", "version": "v0.12.0-esp32-20260424" },
+            { "packager": "esp32", "name": "esptool_py", "version": "5.3.1" },
+            { "packager": "esp32", "name": "mkspiffs", "version": "0.2.3" },
+            { "packager": "esp32", "name": "mklittlefs", "version": "4.0.2-db0513a" },
+            { "packager": "esp32", "name": "esp32s3-libs", "version": "3.3.11" }
+          ]
+        }
+      ]
+    }
+  ]
+}
