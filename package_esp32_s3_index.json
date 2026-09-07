@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "Trioe Boards",
-      "maintainer": "Espressif Systems",
+      "maintainer": "Trioe",
       "websiteURL": "https://github.com/MJBeltran13/trioe_installer",
-      "email": "hristo@espressif.com",
+      "email": "trioe@users.noreply.github.com",
       "help": { "online": "https://esp32.com" },
       "platforms": [
         {
